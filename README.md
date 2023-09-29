@@ -1,2 +1,2 @@
 # pythonTest
-first GitHub repository
+first GitHub epository
